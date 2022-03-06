@@ -1,0 +1,192 @@
+.navcolor{
+    background-color: #000000;
+}
+ #navbarNav{
+    margin-right:350px;
+    padding-left: 325px;
+} 
+#collapse{
+    background-color: cornsilk;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: medium
+}
+
+h1
+{
+   color:greenyellow;
+   text-align: center;
+}
+#abtbtn{
+    margin-left: 100px;
+    margin-right: 80px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.img{
+    height: 400px;
+    width: 400px;
+    background: gray;
+    margin-bottom: 78px;
+    
+}
+#home-section{
+    padding-top: 180px;
+}
+.navbar-container{
+ background-color: black; 
+}
+
+.row-container{
+     text-align: center;  
+     border: 0px solid ;
+     padding: 50px;}
+
+.row-contain{
+    border-bottom: 50px solid black;
+}
+h2{
+border: 0px solid ;
+text-align: center;
+color: white
+}
+
+.abtbanner{
+     padding-top: 80px; 
+     padding-bottom: 20px;
+}
+.about-section{
+   
+    background-color: #FFE0A3;
+}
+.about-section img{
+    height: 400px;
+    width: 400px;
+    background: #1b0202;
+    margin-bottom: 78px;
+}
+.abtbanner h2{
+    color: #212529;
+    text-transform: uppercase;
+}
+
+.abtbanner h2::after{
+    content: "";
+    height: 0.2rem;
+    background-color: red;
+    width: 8rem;
+    margin: 0.5rem auto;
+    margin-bottom: 2rem;
+    display: block;
+    text-align: center;
+}
+
+.edu-section{
+    background-color: black;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.edu-section td,th{
+    color: white;
+}
+
+.edu-section h2{
+    color: white;
+    text-transform: uppercase;
+}
+
+.edu-section h2::after{
+    content: "";
+    height: 0.2rem;
+    background-color: #dd9a05;
+    width: 8rem;
+    margin: 0.5rem auto;
+    margin-bottom: 2rem;
+    display: block;
+    text-align: center;
+}
+
+.skill-section{
+   
+    background-color:rgb(80, 56, 45);
+    padding-bottom: 50px;
+}
+
+.sklbanner{
+    padding-top: 80px; 
+    padding-bottom: 20px;
+}
+
+.sklbanner h2{
+   color: whitesmoke;
+   text-transform: uppercase;
+}
+
+.sklbanner h2::after{
+   content: "";
+   height: 0.2rem;
+   background-color: #dd9a05;
+   width: 8rem;
+   margin: 0.5rem auto;
+   margin-bottom: 2rem;
+   display: block;
+   text-align: center;
+}
+
+.exp-section{
+   
+    background-color: #a19c90;
+    padding: 100px;
+}
+
+.expbanner h2{
+    color: #212529;
+    text-transform: uppercase;
+}
+
+.expbanner h2::after{
+    content: "";
+    height: 0.2rem;
+    background-color:red;
+    width: 8rem;
+    margin: 0.5rem auto;
+    margin-bottom: 2rem;
+    display: block;
+    text-align: center;
+}
+
+.pro-section{
+    padding-bottom: 50px;
+}
+
+.probanner{
+    padding-top: 80px; 
+    padding-bottom: 20px;
+}
+
+.probanner h2{
+   color: whitesmoke;
+   text-transform: uppercase;
+}
+
+.probanner h2::after{
+   content: "";
+   height: 0.2rem;
+   background-color: #dd9a05;
+   width: 8rem;
+   margin: 0.5rem auto;
+   margin-bottom: 2rem;
+   display: block;
+   text-align: center;
+}
+
+footer{
+    background-color: yellowgreen;
+}
+
+
